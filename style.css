@@ -1,0 +1,22 @@
+.polaroid {
+  background-color: #FFF;
+  border: solid 1px #444;
+  display: inline-block;
+  padding: 12px 0 5px 0;
+  box-shadow: 3px 3px 2px #999;
+  border-radius: 3px;
+  transform: rotate(2deg);
+}
+
+.polaroid img {
+  margin: 8px;
+  border: solid 1px #222;
+}
+
+.polaroid figcaption {
+  text-align: center;
+  font-size: 1.3em;
+  font-family: "Nothing You Could Do", "Brush Script MT", cursive;
+  border-top: solid 1px #EEE;
+  padding-top: 8px;
+}
